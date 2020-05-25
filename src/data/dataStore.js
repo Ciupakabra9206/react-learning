@@ -71,6 +71,16 @@ export const listData = {
     },
   ],
 };
+export const FAQData = {
+  title: 'Frequently Asked Questions',
+  image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+  tekst:  '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+};
+export const InfoData = {
+  title: 'Info',
+  image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+  tekst:  '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+};
 
 const lists = [
   {
